@@ -28,7 +28,6 @@ class Infinite extends CI_Controller {
         }
     }
 
-    // Convert the array to JSON and return it
     header('Content-Type: application/json');
     echo json_encode($output);
 }
