@@ -36,7 +36,7 @@
     <script>
         $(document).ready(function(){
 
-            var limit = 20;
+            var limit = 15;
             var start = 0;
             var action = 'inactive';
 
